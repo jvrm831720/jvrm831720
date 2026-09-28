@@ -28,39 +28,31 @@ APIs, webhooks, CRMs, WhatsApp, bancos de dados e sistemas externos.
 
 ## Projetos em destaque
 
-### Varenis
+### [Varenis](https://github.com/jvrm831720/VARENIS)
 
 Infraestrutura de confiabilidade para operações de aquisição e receita.
 
 `Meta Ads` · `Google Ads` · `PostgreSQL` · `RLS` · `OAuth` · `PKCE` · `Incident Management`
 
-### Oplera
+### [Oplera](https://github.com/jvrm831720/oplera)
 
 Infraestrutura para identificar e recuperar oportunidades comerciais que ficaram paradas.
 
 `Revenue Automation` · `WhatsApp` · `MCP` · `Human-in-the-loop`
 
-### Botbase
+### [Botbase](https://github.com/jvrm831720/botbase-backend)
 
 Backend SaaS para chatbots e agentes com Retrieval-Augmented Generation.
 
 `RAG` · `pgvector` · `PostgreSQL` · `JWT` · `RBAC` · `Workers`
 
-[Ver projeto →](https://github.com/jvrm831720/botbase-backend)
-
-### Voltara
-
-Infraestrutura de dados para operações educacionais orientadas por IA.
-
-`Data Ingestion` · `Identity Resolution` · `Deduplication` · `Reconciliation` · `Audit`
-
-### Linvy
+### [Linvy](https://github.com/jvrm831720/linvy)
 
 Plataforma operacional para conectividade, incidentes e substituição de linhas.
 
 `Incident Management` · `Replacement Engine` · `Risk Review` · `Audit Trail`
 
-### Quarky
+### [Quarky](https://github.com/jvrm831720/new-quarky-site)
 
 Site institucional customizado com foco em performance, acessibilidade e experiência visual.
 
