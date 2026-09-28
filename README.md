@@ -10,43 +10,18 @@ Atuo como parceiro técnico sob demanda: quando uma empresa fecha um projeto, pr
 
 ---
 
-## Sobre mim
-
-Sou desenvolvedor focado em transformar problemas operacionais e comerciais em software funcional.
-
-Trabalho principalmente com:
-
-- aplicações web;
-- sistemas internos;
-- agentes de IA;
-- automações;
-- integrações;
-- APIs;
-- produtos SaaS;
-- infraestrutura para operações comerciais.
-
-Também já atuei como parceiro técnico recorrente de software house, entrando nos projetos conforme novas demandas eram fechadas.
-
-Hoje estou expandindo esse modelo para agências, consultorias e empresas de tecnologia.
-
----
-
 ## O que eu construo
 
-### Software
-
+**Software**  
 Aplicações web, dashboards, CRMs, plataformas SaaS, ferramentas internas, landing pages e MVPs.
 
-### AI
+**AI**  
+Agentes para atendimento, vendas, operações, WhatsApp, e-mail, voz e processamento de dados.
 
-Agentes de IA para atendimento, vendas, operações, WhatsApp, e-mail, voz e processamento de dados.
+**Automation**  
+Workflows, processos comerciais, automações internas e integração entre ferramentas.
 
-### Automation
-
-Workflows, automações comerciais, processos internos e integração entre ferramentas.
-
-### Integrations
-
+**Integrations**  
 APIs, webhooks, CRMs, WhatsApp, bancos de dados e sistemas externos.
 
 ---
@@ -57,137 +32,73 @@ APIs, webhooks, CRMs, WhatsApp, bancos de dados e sistemas externos.
 
 Infraestrutura de confiabilidade para operações de aquisição e receita.
 
-**Destaques:**
-
-- Meta Ads e Google Ads;
-- arquitetura multi-tenant;
-- PostgreSQL + RLS;
-- OAuth + PKCE;
-- incident management;
-- webhooks;
-- auditoria;
-- testes automatizados.
-
----
+`Meta Ads` · `Google Ads` · `PostgreSQL` · `RLS` · `OAuth` · `PKCE` · `Incident Management`
 
 ### Oplera
 
 Infraestrutura para identificar e recuperar oportunidades comerciais que ficaram paradas.
 
-**Destaques:**
-
-- automação comercial;
-- análise de conversas;
-- WhatsApp;
-- agentes e workflows;
-- recuperação de receita;
-- revisão humana;
-- MCP.
-
----
+`Revenue Automation` · `WhatsApp` · `MCP` · `Human-in-the-loop`
 
 ### Botbase
 
-Backend SaaS para criação de chatbots e agentes com RAG.
+Backend SaaS para chatbots e agentes com Retrieval-Augmented Generation.
 
-**Destaques:**
-
-- RAG;
-- pgvector;
-- PostgreSQL;
-- autenticação JWT;
-- RBAC;
-- workers;
-- billing;
-- rate limiting;
-- testes.
+`RAG` · `pgvector` · `PostgreSQL` · `JWT` · `RBAC` · `Workers`
 
 [Ver projeto →](https://github.com/jvrm831720/botbase-backend)
-
----
 
 ### Voltara
 
 Infraestrutura de dados para operações educacionais orientadas por IA.
 
-**Destaques:**
-
-- ingestão CSV/XLSX;
-- normalização;
-- resolução de identidade;
-- deduplicação;
-- reconciliação;
-- auditoria;
-- PostgreSQL;
-- Next.js.
-
----
+`Data Ingestion` · `Identity Resolution` · `Deduplication` · `Reconciliation` · `Audit`
 
 ### Linvy
 
-Plataforma operacional para gestão de conectividade, incidentes e substituição de linhas.
+Plataforma operacional para conectividade, incidentes e substituição de linhas.
 
-**Destaques:**
+`Incident Management` · `Replacement Engine` · `Risk Review` · `Audit Trail`
 
-- incident management;
-- replacement engine;
-- audit trail;
-- risk review;
-- provider orchestration;
-- dashboards operacionais.
+### Quarky
 
----
+Site institucional customizado com foco em performance, acessibilidade e experiência visual.
 
-### Web & Product Development
-
-Também desenvolvo:
-
-- sites institucionais;
-- landing pages;
-- dashboards;
-- produtos SaaS;
-- sistemas internos;
-- interfaces web responsivas.
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `SEO`
 
 ---
 
 ## Stack
 
-**Frontend**
-
+**Frontend**  
 `Next.js` `React` `TypeScript` `Tailwind CSS`
 
-**Backend**
-
+**Backend**  
 `Node.js` `Python` `FastAPI`
 
-**Data**
-
+**Data**  
 `PostgreSQL` `Supabase` `pgvector` `Drizzle`
 
-**AI & Automation**
-
+**AI & Automation**  
 `OpenAI` `LLMs` `RAG` `AI Agents` `n8n`
 
-**Infrastructure**
-
+**Infrastructure**  
 `Vercel` `GitHub Actions` `Docker`
 
-**Integrations**
-
+**Integrations**  
 `REST APIs` `Webhooks` `WhatsApp APIs` `CRM`
 
 ---
 
 ## Technical Partner
 
-Também trabalho com **agências, software houses e empresas de tecnologia** que precisam aumentar sua capacidade técnica sem necessariamente aumentar a equipe fixa.
+Também trabalho com **agências, software houses e empresas de tecnologia** que precisam aumentar capacidade técnica sem aumentar a equipe fixa.
 
-Posso entrar em projetos envolvendo:
+Posso entrar em projetos de:
 
 - desenvolvimento web;
 - sistemas;
-- inteligência artificial;
+- IA;
 - automação;
 - integrações;
 - APIs;
@@ -199,7 +110,6 @@ Inclusive em modelo **white-label**.
 > Você mantém o cliente. Eu ajudo a entregar a tecnologia.
 
 ---
-
 
 ## Como trabalho
 
@@ -215,10 +125,10 @@ Implementação
 Testes
    ↓
 Entrega
+```
 
 Busco construir soluções simples, auditáveis e preparadas para uso real.
 
 ---
 
-
-Rio de Janeiro, Brasil · Projetos remotos
+**Rio de Janeiro, Brasil · Projetos remotos**
