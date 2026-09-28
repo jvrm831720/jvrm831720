@@ -200,6 +200,7 @@ Inclusive em modelo **white-label**.
 
 ---
 
+
 ## Como trabalho
 
 ```text
@@ -216,14 +217,8 @@ Testes
 Entrega
 
 Busco construir soluções simples, auditáveis e preparadas para uso real.
-Contato
-LinkedIn
-Site
-GitHub
+
+---
+
+
 Rio de Janeiro, Brasil · Projetos remotos
-
-Depois clique em **Commit changes**.
-
-Por enquanto, deixa os links de LinkedIn e site como placeholder se a landing ainda não estiver no ar. Não inventa URL só para preencher espaço, que até o GitHub merece um mínimo de dignidade.
-
-Depois desse README, a próxima etapa é **arrumar o Botbase e começar os repositórios públicos de case study**, começando por **Varenis** e **Oplera**.
